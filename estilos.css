@@ -1,0 +1,32 @@
+body {
+    background-color: #0b0d17;
+    color: #e2e8f0;
+    font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+.destaque {
+    background-color: #1e293b;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+div {
+    padding: 4px;
+}
+
+a {
+    color: #38bdf8;
+}
+
+/* 
+1. Desafio Técnico: Acho que a regra CSS mais difícil de aplicar foi o padding, o border-radius e margin, na medida em que foi difícil encontrar uma boa combinação dos 3, mas acho que acabou por sair bastante bem!
+2. Correção de Sintaxe: Não tive muitos erros, na medida em que os conseguia detetar antes de testar o resultado no browser, mas os mais comuns foram esquecer um ponto e vírgula no CSS e colocar o símbolo de abertura "{" errado.
+3. O atributo "src" serve como fonte (por isso é que é a abreviatura de "source"), para indicar ao browser, onde é que deve ir buscar um ficheiro exteno para ser carregado ou exibido na página HTML. Eu usei este atributo no elemento "img" para indicar o caminho onde se encontra a imagem que quero que seja apresentada no ecrã.
+*/
